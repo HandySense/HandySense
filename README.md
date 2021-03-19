@@ -9,7 +9,7 @@
 [HandySense Dashboard Link](https://auth.netpie.io/login)
 
 - 📫 HandySense FB Group: ...
-HandySense FB Group : HandySense Community
+HandySense Community
 
 
 <!--
