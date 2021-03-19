@@ -11,6 +11,9 @@
 - 📫 HandySense FB Group: ...
 HandySense Community
 
+- 📫 Register please, HandySense: ...
+[HandySense register Link](https://docs.google.com/forms/d/1WQEYFI6RJbnz1_Ot7-2FIOY-nuysHOLtpn-XV4B5TMs/viewform?edit_requested=true)
+
 
 <!--
 **HandySense/HandySense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
