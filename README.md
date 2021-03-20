@@ -9,7 +9,7 @@
 </p>
 
 # HandySense 🌱
-## smart farming iot 🔭
+## Smart Farming IoT 🔭
 ### Hi there 👋
 
 - 📫 HandySense HomePage: ...
