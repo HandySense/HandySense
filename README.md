@@ -8,10 +8,9 @@
 -->
 </p>
 
-# HandySense 🌱
+# HandySense ## Smart Farming IoT 🌱
 ![](https://komarev.com/ghpvc/?username=your-github-HandySense&color=brightgreen) 
 
-## Smart Farming IoT 🔭
 ### Hi there 👋
 
 - 📫 HandySense HomePage        : ...
