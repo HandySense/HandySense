@@ -1,7 +1,7 @@
 ![hds-logo_0](https://user-images.githubusercontent.com/80938836/111749496-7605ef00-88c4-11eb-83ef-3570d2528be6.png)
 <p align='center'>
-<a href="https://handysense.io/"><img height="45" src="https://github.com/HandySense/HandySense/blob/main/hds-logo.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://handysense.io/"><img height="30" src="https://github.com/HandySense/HandySense/blob/main/hds-logo.png"></a>&nbsp;&nbsp;
+<a href="https://web.facebook.com/groups/handysense"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
