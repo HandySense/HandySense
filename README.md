@@ -2,9 +2,10 @@
 <p align='center'>
 <a href="https://handysense.io/"><img height="30" src="https://github.com/HandySense/HandySense/blob/main/hds-logo1.png"></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/groups/handysense"><img height="30" src="https://github.com/HandySense/HandySense/blob/main/768px-Facebook_Logo_(2019).png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<!--<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a> 
+-->
 </p>
 
 # HandySense 🌱
