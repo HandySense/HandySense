@@ -25,7 +25,7 @@
 [HandySense register Link](https://docs.google.com/forms/d/1WQEYFI6RJbnz1_Ot7-2FIOY-nuysHOLtpn-XV4B5TMs/viewform?edit_requested=true)
 
 <p align='center'>
-![](https://komarev.com/ghpvc/?username=your-github-HandySense&color=brightgreen)
+<a ![](https://komarev.com/ghpvc/?username=your-github-HandySense&color=brightgreen)></a>
 </p>
 
 <!--
