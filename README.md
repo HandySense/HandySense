@@ -16,7 +16,7 @@
 [HandySense HomePage Link](https://handysense.io/)
 
 - 📫 HandySense Dashboard: ...
-[HandySense Dashboard Link](https://dashoard.handysense.io/)
+[HandySense Dashboard Link](https://dashboard.handysense.io/)
 
 - 📫 HandySense FB Group: ...
 [HandySense Community Link](https://web.facebook.com/groups/handysense)
