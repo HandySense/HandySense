@@ -9,6 +9,8 @@
 </p>
 
 # HandySense 🌱
+![](https://komarev.com/ghpvc/?username=your-github-HandySense&color=brightgreen) 
+
 ## Smart Farming IoT 🔭
 ### Hi there 👋
 
@@ -24,8 +26,6 @@
 - 📫 Register please, HandySense: ...
 [HandySense register Link](https://docs.google.com/forms/d/1WQEYFI6RJbnz1_Ot7-2FIOY-nuysHOLtpn-XV4B5TMs/viewform?edit_requested=true)
 
-
-### 🌱  ![](https://komarev.com/ghpvc/?username=your-github-HandySense&color=brightgreen) 🌱 
 
 <!--
 **HandySense/HandySense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
