@@ -16,10 +16,10 @@
 [HandySense HomePage Link](https://handysense.io/)
 
 - 📫 HandySense Dashboard: ...
-[HandySense Dashboard Link](https://auth.netpie.io/login)
+[HandySense Dashboard Link](https://dashoard.handysense.io/)
 
 - 📫 HandySense FB Group: ...
-HandySense Community
+[HandySense Community Link](https://web.facebook.com/groups/handysense)
 
 - 📫 Register please, HandySense: ...
 [HandySense register Link](https://docs.google.com/forms/d/1WQEYFI6RJbnz1_Ot7-2FIOY-nuysHOLtpn-XV4B5TMs/viewform?edit_requested=true)
