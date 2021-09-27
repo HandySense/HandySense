@@ -1,4 +1,4 @@
-![hds-logo_0](https://user-images.githubusercontent.com/80938836/111749496-7605ef00-88c4-11eb-83ef-3570d2528be6.png)
+![hds-logo_0](https://github.com/HandySense/HandySense/blob/main/HandySense.io.PNG)
 <p align='center'>
 <a href="https://handysense.io/"><img height="30" src="https://github.com/HandySense/HandySense/blob/main/hds-logo1.png"></a>&nbsp;&nbsp;
 <a href="https://web.facebook.com/groups/handysense"><img height="30" src="https://github.com/HandySense/HandySense/blob/main/768px-Facebook_Logo_(2019).png?raw=true"></a>&nbsp;&nbsp;
